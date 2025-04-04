@@ -1,6 +1,4 @@
 //Name:		Kade Sole
-//Program: 	CSC 377 Program 2
-//Due date: 	March 15, 2025
 #include <iostream>
 #include <fstream>
 #include <pthread.h>
